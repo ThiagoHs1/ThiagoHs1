@@ -15,7 +15,7 @@ Estou muito animado para mergulhar no mundo do **Java**. Planejo estudar e me ap
 ## 📫 Contato
 Sinta-se à vontade para entrar em contato comigo para projetos colaborativos, dúvidas ou simplesmente para trocar ideias sobre tecnologia!
 
-- [LinkedIn]([(https://www.linkedin.com/in/thiago-heinle-sanchez/)](https://www.linkedin.com/in/thiago-heinle-sanchez/))
+- [LinkedIn]([ Thiago Henrique Heinle Sanchez(https://www.linkedin.com/in/thiago-heinle-sanchez/)](https://www.linkedin.com/in/thiago-heinle-sanchez/))
 - Email: thiago.sh26@gmail.com
 
 ---
