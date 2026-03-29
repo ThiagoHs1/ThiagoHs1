@@ -42,7 +42,7 @@ Expandindo o conhecimento em: Networking fundamentals, Windows basics, ITIL.
 
 <div align="center">
 
-<a href="https://github.com/ThiagoHs1"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoHs1&theme=synthwave-84&custom_title=Contribution%20Graph&color=8B5CF6&area=true&hide_border=true" width="100%" alt="Activity Graph" /></a>
+<a href="https://github.com/ThiagoHs1"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoHs1&theme=react-dark&custom_title=Contribution%20Graph&color=8B5CF6&area=true&hide_border=true" width="100%" alt="Activity Graph" /></a>
 
 </div>
 
