@@ -16,11 +16,11 @@
 
 Ponto de contato principal para questões de TI. Comunicador empático, com facilidade para explicar conceitos técnicos em termos simples.
 
-Currently at **Viação Tiaraju LTDA**.
-Expanding expertise in Networking fundamentals, Windows basics, ITIL.
-Currently working on Improving first-call resolution rate.
+Trabalhando em: **Viação Tiaraju LTDA**.
+Expandindo o conhecimento em: Networking fundamentals, Windows basics, ITIL.
 
-💬 Ask me about: Windows, Office 365...
+
+💬 Me pergunte sobre: Windows, Office 365...
 
 **Key Competencies:** Zendesk · Slack · Microsoft Teams · JavaScript · SQL · TypeScript · Java · Node.js
 ---
@@ -32,12 +32,9 @@ Currently working on Improving first-call resolution rate.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-heinle-sanchez)
 ---
-![Profile Views](https://komarev.com/ghpvs/?username=ThiagoHs1&color=brightgreen&style=for-the-badge)
-
----
 ## Professional Experience
 
-| Period | Role | Company |
+| Periodo | Cargo | Empresa |
 |--------|------|---------|
 | 2021- Atual | Analista de Suporte Técnico | Viação Tiaraju LTDA |
 ---
@@ -45,29 +42,29 @@ Currently working on Improving first-call resolution rate.
 
 <div align="center">
 
-<a href="https://github.com/ThiagoHs1"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoHs1&theme=high-contrast&custom_title=Contribution%20Graph&color=8B5CF6&area=true&hide_border=true" width="100%" alt="Activity Graph" /></a>
+<a href="https://github.com/ThiagoHs1"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoHs1&theme=synthwave-84&custom_title=Contribution%20Graph&color=8B5CF6&area=true&hide_border=true" width="100%" alt="Activity Graph" /></a>
 
 </div>
 ---
-## Featured Repositories
+
 
 <div align="center">
-  <a href="https://github.com/ThiagoHs1/flowspace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=flowspace&theme=default&show_owner=true" /></a>
-  <a href="https://github.com/ThiagoHs1/barbearia-agendamento-completo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=barbearia-agendamento-completo&theme=default&show_owner=true" /></a>
+  <a href="https://github.com/ThiagoHs1/flowspace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=flowspace&theme=default" /></a>
+  <a href="https://github.com/ThiagoHs1/barbearia-agendamento-completo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=barbearia-agendamento-completo&theme=default" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/ThiagoHs1/chatbot-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=chatbot-app&theme=default&show_owner=true" /></a>
-  <a href="https://github.com/ThiagoHs1/landing-page-advocacia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=landing-page-advocacia&theme=default&show_owner=true" /></a>
+  <a href="https://github.com/ThiagoHs1/chatbot-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=chatbot-app&theme=default" /></a>
+  <a href="https://github.com/ThiagoHs1/landing-page-advocacia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=landing-page-advocacia&theme=default" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/ThiagoHs1/academy-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=academy-hub&theme=default&show_owner=true" /></a>
-  <a href="https://github.com/ThiagoHs1/dashboard-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=dashboard-analytics&theme=default&show_owner=true" /></a>
+  <a href="https://github.com/ThiagoHs1/academy-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=academy-hub&theme=default" /></a>
+  <a href="https://github.com/ThiagoHs1/dashboard-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoHs1&repo=dashboard-analytics&theme=default" /></a>
 </div>
 
 ---
-## Inspirational Quote
+
 
 <div align="center">
 
